@@ -6,6 +6,6 @@ namespace projectApiCore.Interfaces
 
     public interface IUserRepository
     {
-        List<User> GetUsers();
+        List<Root> GetUsers();
     }
 }
